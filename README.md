@@ -1,6 +1,5 @@
-# Técnico Electrodomésticos BCN (versión provisional)
+# Web provisional (retirada)
 
-Web generada automáticamente. **No editar aquí**: el código fuente está en el repositorio `servitecnic24h`, carpeta `nueva-web/` (comando `npm run github`).
-
-- Versión provisional para revisar el diseño. No está indexada en Google (`noindex` y `robots.txt`).
-- Datos pendientes (teléfono, dominio, correo) aparecen como "PENDIENTE" o "93 XXX XX XX".
+Esta web de pruebas se ha trasladado a **https://tecnicoelectrobcn.es**.
+Cada página de aquí redirige a la misma página del dominio.
+El código de la web está en el repositorio privado `tecnicoelectrobcn-web`.
